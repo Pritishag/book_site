@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"a book full of adventures",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"a book full of adventures",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"a book full of adventures",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"a book full of adventures",
+        "price":100,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"a book full of adventures",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"a book full of adventures",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"a book full of adventures",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/old-books-arrangement-with-copy-space_23-2148898331.jpg?t=st=1722803264~exp=1722806864~hmac=61a5477ebf99c95ebcf13db9795e683873be51873651dc1c4bd2572d77b00976&w=740"
+    }
+]
